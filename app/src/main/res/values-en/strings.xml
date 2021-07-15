@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Ejemplo11</string>
+    <string name="etiInscripcion">    Inscription</string>
+    <string name="etiEntrar">GET IN</string>
+    <string name="etiNombre">"Name: "</string>
+    <string name="etiPApellido">"1º Last Name: "</string>
+    <string name="etiSApellido">"2º Last Name: "</string>
+    <string name="etiTelefono">Telephone:</string>
+    <string name="etiEmail">"Mail: "</string>
+    <string name="etiCEmail">"Confirm Mail: "</string>
+    <string name="etiSocio">Are you a Real Madrid Partner?</string>
+    <string name="etiMenor">Are you under 18?</string>
+    <string name="etiResidencia">Do you like outside of Spain?</string>
+    <string name="etiAceptar">ACCEPT</string>
+    <string name="etiSi">Yes</string>
+    <string name="etiNo">No</string>
+    <string name="etiApellidos">Last Name:</string>
+    <string name="etiCerrar">CLOSE</string>
+</resources>
